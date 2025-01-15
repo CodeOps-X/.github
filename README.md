@@ -6,4 +6,5 @@ We are just a bunch of coders who will make random stuff. Join if you want to. ð
 # [Learn HTML or your ðŸ’¸ back 100% working 2025](https://github.com/eternalxlks/Learn-HTML/) 
 # Our Communtiy!
 A primary goal of [CodeOps-X] is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+# That's about it for now.
 
