@@ -8,6 +8,6 @@ Join us and you will be a rubber duck 😄
 # Our community
 A primary goal of [CodeOps-X] is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 # Socials Section
-Write about you social accounts! (Youtube, X, Instagram, etc.)
+Write about your social accounts! (Youtube, X, Instagram, etc.)
 ## Mega Rayquaza's Youtube channel!
  Grab some 🍿 and enjoy. [Mega's Youtube Channel](https://youtube.com/@a_duck_plays_minecraft)
