@@ -3,4 +3,13 @@
 ## 🛠️ Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,java,eclipse,python,nodejs,bootstrap,Pycharm)](#)
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  Our GitHub Stats
-![CodeOpsX's GitHub stats](https://github-readme-stats.vercel.app/api?username=microsoft&show_icons=true&theme=transparent)
+![CodeOpsX's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitexlks&show_icons=true&theme=transparent)
+![CodeOpsX's GitHub stats](https://github-readme-stats.vercel.app/api?username=penguin3456&show_icons=true&theme=transparent)
+![CodeOpsX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinyMegaRayquazaX&show_icons=true&theme=transparent)
+![CodeOpsX's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodskwak&show_icons=true&theme=transparent)
+![CodeOpsX's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunsi2&show_icons=true&theme=transparent)
+
+
+
+
+
